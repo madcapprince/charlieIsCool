@@ -1,4 +1,6 @@
 Charlie Is Cool Fact
 ---
 
-# 20 reasons Charlie is so cool
+#ABOUT CHARLIE
+
+20 reasons Charlie is so cool
