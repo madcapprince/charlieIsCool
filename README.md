@@ -7,6 +7,6 @@ Charlie Is Cool Fact
 
 
 1) great hair
-2) very fashionable
+2) very fashionable dresser
 3) loves bananas
 4) watches horror movies without fear
